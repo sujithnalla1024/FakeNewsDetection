@@ -1,3 +1,5 @@
 # FakeNewsDetection
-Predicting Faking Using Machine Learning
-This is a MAchine Learning MOdel where user can Enter Url then the summary of text in the url is downloaded and processed with series of steps to predict whether the news is FAKE or NOT
+This is a Machine Learning MOdel where user can Enter Url then the summary of text in the url is downloaded and processed with series of steps to predict whether the news is FAKE or NOT.
+Home page is:
+![image](https://user-images.githubusercontent.com/71507908/148874684-09b4b75a-7afc-44df-93b2-87c264f7ad94.png)
+
